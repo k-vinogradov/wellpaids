@@ -1,0 +1,10 @@
+version: '3'
+services:
+  postgres:
+    build:
+      context: ./postgres
+  client:
+    build:
+      context: ./client
+    volumes:
+      - ./output:/output
