@@ -1,6 +1,6 @@
 # wellpaids
 
-This repo contains the solution of the SQL challenge by [Ostrovok](https://github.com/ostrovok-team). The original problem description can be found [here](https://github.com/ostrovok-team). 
+This repo contains the solution of the SQL challenge by [Ostrovok](https://github.com/ostrovok-team). The original problem description can be found [here](https://github.com/ostrovok-team/code-challenge/tree/master/python). 
 
 **The only purpose of the project is improving of my Python developer skills**
 
