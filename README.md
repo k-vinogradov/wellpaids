@@ -8,8 +8,8 @@ This repo contains the solution of the SQL challenge by [Ostrovok](https://githu
 
 ```sql
 /*
-  Only one persone from each department is required to be selected. So
-  we need to aggregate data twice. 
+  Only one person from each department is required to be selected. So
+  we need to aggregate data twice.
 */
 SELECT
   aggregated.department as department,
@@ -42,7 +42,7 @@ Requirements:
 * Docker
 * docker-compose
 
-Clone repo and run the following command:
+Clone the repository and run the following command:
 
     docker-compose up --abort-on-container-exit --build
 
