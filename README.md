@@ -4,7 +4,7 @@ This repo contains the solution of the SQL challenge by [Ostrovok](https://githu
 
 **The only purpose of the project is improving of my Python developer skills**
 
-## Solution
+## Problem Solving
 
 ```sql
 /*
@@ -42,7 +42,7 @@ Requirements:
 * Docker
 * docker-compose
 
-Run the following command:
+Clone repo and run the following command:
 
     docker-compose up --abort-on-container-exit --build
 
